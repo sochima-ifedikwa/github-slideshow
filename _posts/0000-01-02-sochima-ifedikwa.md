@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your content
+"This is my Edit to my new flie"
 Use the left arrow to go back!
